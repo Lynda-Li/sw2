@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<project name="maven-antrun-" default="main"  >
+<target name="main">
+  <delete dir="D:\training\apache-skywalking-apm-8.3.0\apm-sniffer\apm-agent/../../skywalking-agent"/>
+</target>
+</project>

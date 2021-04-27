@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module org.jetbrains.idea.maven.project.MavenProjectsManager.isMavenModule="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
+    <output url="file://$MODULE_DIR$/target/classes" />
+    <output-test url="file://$MODULE_DIR$/target/test-classes" />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/test/java" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" scope="TEST" name="Maven: mysql:mysql-connector-java:6.0.6" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: org.apache.shardingsphere:sharding-core-execute:4.0.0-RC3" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: org.apache.shardingsphere:sharding-core-route:4.0.0-RC3" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: org.apache.shardingsphere:sharding-core-preprocessor:4.0.0-RC3" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: org.codehaus.groovy:groovy:indy:2.4.5" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: org.yaml:snakeyaml:1.16" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: com.google.guava:guava:18.0" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: org.slf4j:slf4j-api:1.7.7" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: org.slf4j:jcl-over-slf4j:1.7.7" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: org.apache.shardingsphere:sharding-jdbc-core:4.0.0-RC3" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: org.apache.shardingsphere:sharding-core-entry:4.0.0-RC3" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: org.apache.shardingsphere:sharding-core-api:4.0.0-RC3" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: org.apache.shardingsphere:sharding-core-common:4.0.0-RC3" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: commons-codec:commons-codec:1.10" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: org.apache.shardingsphere:sharding-core-parse-common:4.0.0-RC3" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: org.apache.shardingsphere:sharding-core-parse-spi:4.0.0-RC3" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: org.apache.commons:commons-collections4:4.2" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: org.antlr:antlr4-runtime:4.7.1" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: org.apache.shardingsphere:sharding-core-parse-sql92:4.0.0-RC3" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: org.apache.shardingsphere:sharding-core-parse-mysql:4.0.0-RC3" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: org.apache.shardingsphere:sharding-core-parse-postgresql:4.0.0-RC3" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: org.apache.shardingsphere:sharding-core-parse-oracle:4.0.0-RC3" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: org.apache.shardingsphere:sharding-core-parse-sqlserver:4.0.0-RC3" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: org.apache.shardingsphere:sharding-core-rewrite:4.0.0-RC3" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: org.apache.shardingsphere:sharding-core-merge:4.0.0-RC3" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: org.apache.shardingsphere:sharding-transaction-core:4.0.0-RC3" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: org.apache.shardingsphere:sharding-proxy-frontend-core:4.0.0-RC3" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: org.apache.shardingsphere:sharding-proxy-frontend-spi:4.0.0-RC3" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: org.apache.shardingsphere:sharding-proxy-common:4.0.0-RC3" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: org.apache.shardingsphere:sharding-orchestration-core:4.0.0-RC3" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: org.apache.shardingsphere:sharding-orchestration-reg-api:4.0.0-RC3" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: org.apache.shardingsphere:sharding-orchestration-config-api:4.0.0-RC3" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: com.zaxxer:HikariCP-java7:2.4.11" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: org.apache.shardingsphere:sharding-proxy-transport-core:4.0.0-RC3" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: org.apache.shardingsphere:sharding-proxy-backend:4.0.0-RC3" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: org.apache.shardingsphere:sharding-transaction-xa-core:4.0.0-RC3" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: org.apache.shardingsphere:sharding-transaction-xa-spi:4.0.0-RC3" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: javax.transaction:jta:1.1" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: org.apache.shardingsphere:sharding-transaction-xa-atomikos-manager:4.0.0-RC3" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: com.atomikos:transactions:4.0.6" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: com.atomikos:transactions-api:4.0.6" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: com.atomikos:atomikos-util:4.0.6" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: com.atomikos:transactions-jta:4.0.6" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: com.atomikos:transactions-jdbc:4.0.6" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: org.postgresql:postgresql:42.2.5" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: io.netty:netty-all:4.1.42.Final" level="project" />
+    <orderEntry type="module" module-name="apm-agent-core" scope="PROVIDED" />
+    <orderEntry type="module" module-name="apm-network" scope="PROVIDED" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: io.grpc:grpc-netty:1.32.1" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: io.grpc:grpc-core:1.32.1" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: com.google.android:annotations:4.1.1.4" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: io.netty:netty-codec-http2:4.1.51.Final" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: io.netty:netty-common:4.1.51.Final" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: io.netty:netty-buffer:4.1.51.Final" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: io.netty:netty-transport:4.1.51.Final" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: io.netty:netty-resolver:4.1.51.Final" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: io.netty:netty-codec:4.1.51.Final" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: io.netty:netty-handler:4.1.51.Final" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: io.netty:netty-codec-http:4.1.51.Final" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: io.netty:netty-handler-proxy:4.1.51.Final" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: io.netty:netty-codec-socks:4.1.51.Final" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: com.google.errorprone:error_prone_annotations:2.3.4" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: io.perfmark:perfmark-api:0.19.0" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: org.codehaus.mojo:animal-sniffer-annotations:1.18" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: com.google.code.findbugs:jsr305:3.0.2" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: io.grpc:grpc-protobuf:1.32.1" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: io.grpc:grpc-api:1.32.1" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: io.grpc:grpc-context:1.32.1" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: com.google.protobuf:protobuf-java:3.12.0" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: com.google.api.grpc:proto-google-common-protos:1.17.0" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: io.grpc:grpc-protobuf-lite:1.32.1" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: io.grpc:grpc-stub:1.32.1" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: io.netty:netty-tcnative-boringssl-static:2.0.26.Final" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: com.google.code.gson:gson:2.8.6" level="project" />
+    <orderEntry type="module" module-name="apm-datacarrier" scope="PROVIDED" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: net.bytebuddy:byte-buddy:1.10.16" level="project" />
+    <orderEntry type="module" module-name="apm-util" scope="PROVIDED" />
+    <orderEntry type="module" module-name="apm-test-tools" scope="TEST" />
+    <orderEntry type="library" scope="TEST" name="Maven: junit:junit:4.12" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.hamcrest:hamcrest-core:1.3" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.powermock:powermock-module-junit4:2.0.7" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.powermock:powermock-module-junit4-common:2.0.7" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.powermock:powermock-reflect:2.0.7" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.powermock:powermock-core:2.0.7" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.javassist:javassist:3.27.0-GA" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.powermock:powermock-api-mockito2:2.0.7" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.powermock:powermock-api-support:2.0.7" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.mockito:mockito-core:3.5.13" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: net.bytebuddy:byte-buddy-agent:1.10.16" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.objenesis:objenesis:3.1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.openjdk.jmh:jmh-core:1.21" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: net.sf.jopt-simple:jopt-simple:4.6" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.apache.commons:commons-math3:3.2" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: org.projectlombok:lombok:1.18.10" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: javax.annotation:javax.annotation-api:1.3.2" level="project" />
+  </component>
+</module>
